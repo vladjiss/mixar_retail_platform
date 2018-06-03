@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIXAR retail platform", "Assembly-CSharp.csproj", "{48018279-BF15-47B4-D7C2-09810043D052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIXAR retail platform", "Assembly-CSharp-Editor.csproj", "{4A142224-4CFA-C9DA-8EE3-294A285A14B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48018279-BF15-47B4-D7C2-09810043D052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48018279-BF15-47B4-D7C2-09810043D052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48018279-BF15-47B4-D7C2-09810043D052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48018279-BF15-47B4-D7C2-09810043D052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A142224-4CFA-C9DA-8EE3-294A285A14B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A142224-4CFA-C9DA-8EE3-294A285A14B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A142224-4CFA-C9DA-8EE3-294A285A14B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A142224-4CFA-C9DA-8EE3-294A285A14B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
